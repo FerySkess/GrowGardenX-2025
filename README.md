@@ -1,5 +1,8 @@
 # 🌱 GrowGardenX 2025 — Roblox Grow a Garden Script | Auto-Plant · Water · Harvest · Crop Optimizer
 
+![a21e10fa-34e4-4dde-8437-b5de0a3a8c21](https://github.com/user-attachments/assets/ac2f5e3d-c3e8-411c-b554-f41c739c2d64)
+
+
 **GrowGardenX 2025** is a lightweight, modular **Roblox Grow a Garden script** and gardening assistant built for creators, testers, and roleplay servers. Designed as a **legal automation helper**, GrowGardenX focuses on farm management, growth simulation, watering schedules, seed planning, and performance optimization for players and developers who want to streamline gardening gameplay or test garden mechanics in Roblox. Perfect for content creators, game devs, and players exploring **garden automation**, **plant growth algorithms**, and **seed/soil management**.
 
 ---
