@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Why GrowGardenX? (SEO-friendly highlights)
+## 🚀 Why GrowGardenX?
 
 * **Roblox Grow a Garden Script 2025** — updated for modern Roblox Lua patterns and performance.
 * **Auto-Plant & Auto-Harvest** — schedule planting and harvesting routines for testing and roleplay.
